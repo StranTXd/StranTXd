@@ -1,18 +1,12 @@
   ## Hi there 👋
 
+My name is Dima. 
 
-![Image](https://github.com/user-attachments/assets/17b4ebce-3254-4804-9556-55fb94830135)
-<!--
-**StranTXd/StranTXd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Computer Science Bachelor Degree
+- 🌱 I’m currently learning Programming in general, git, systems, cybersecurity also I want to learn C++
+- 👯 I’m looking to collaborate on anything where my skills can be used:)
+- 🤔 I’m looking for help with understanding System Scalling
+- 💬 Ask me about how many languages I speak
+- 📫 How to reach me: Telegram @strant1
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've visited 12 countries (counting also the ones I've visited to get to other countries) 
