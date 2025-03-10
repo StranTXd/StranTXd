@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![alt text (https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmakesuretodoitonafriday-v0-jl0vw12129kd1.png%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D7129f9b2debcbb53fdc24a3e8226ccec5b6a92e0)
 <!--
 **StranTXd/StranTXd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
